@@ -1,0 +1,15 @@
+{
+    "BundlesLayout": {
+        "m_Guids": [],
+        "m_Bundles": []
+    },
+    "BundleDependencies": {
+        "m_List": []
+    },
+    "BlueprintPatches": [
+        {
+            "Guid": "fb8300e8298c08d4a9f50dfa1203e98d",
+            "Filename": "advancedhorsestats.patch"
+        }
+    ]
+}

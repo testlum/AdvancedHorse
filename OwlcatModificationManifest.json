@@ -1,0 +1,15 @@
+{
+    "UniqueName": "AdvancedHorse",
+    "Version": "1.0",
+    "DisplayName": "Advanced Horse",
+    "Description": "Not your basic horse.",
+    "Author": "testlum",
+    "Repository": "",
+    "HomePage": "",
+    "Dependencies": [
+        {
+            "Name": "WrathPatches",
+            "Version": "1.18.0"
+        }
+    ]
+}
